@@ -20,7 +20,7 @@ public class Main {
         System.out.println("");
 
         System.out.println("компания - " + Arrays.toString(company));
-        System.out.println("игрок - " + Arrays.toString(company));
+        System.out.println("игрок - " + Arrays.toString(player));
         System.out.println("количество совпадений: " + k);
     }
 }
